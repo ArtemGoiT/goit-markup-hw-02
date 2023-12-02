@@ -33,7 +33,7 @@ ul {list-style-type: none;}
 .link-studio:hover,
 .link-studio:focus {color:  #404BBF;
     /* Body Medium */
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -52,7 +52,7 @@ ul {list-style-type: none;}
 .item-contact {}
 .link-studio, .link-portfolio, .link-cont {color:  #2E2F42;
     /* Body Medium */
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -64,7 +64,7 @@ ul {list-style-type: none;}
 .link-mail:focus, .link-portfolio:hover,
 .link-cont:hover {color: #404BBF;
     /* Текст */
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -76,7 +76,7 @@ ul {list-style-type: none;}
 .link-contact, .link-mail {color:  #434455;
 
     /* Body */
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -87,7 +87,7 @@ ul {list-style-type: none;}
 .link-contact:focus {
     color: #404BBF;
     /* Текст */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -192,7 +192,7 @@ letter-spacing: 0.64px;
     letter-spacing: 0.32px;}
 
 .section-photo {background:  #F4F4FD;}
-
+.main-subtitle-photo {line-height: 1.11}
 .section-photo-list {}
 
 .photo-item {}
@@ -224,6 +224,7 @@ letter-spacing: 0.64px;
     letter-spacing: 0.32px;}
 
 .section-images {background: #FFF;}
+.main-subtitle-images {line-height: 1.11} 
 
 .images-list {}
 
