@@ -138,7 +138,7 @@ letter-spacing: 0.64px;
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
 .main-button:hover,:focus {color:  #FFF;
     /* Button Text */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -238,7 +238,7 @@ letter-spacing: 0.64px;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.11;
+    line-height: 1.2;
     /* 120% */
     letter-spacing: 0.4px;}
 
