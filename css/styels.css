@@ -154,7 +154,7 @@ ul {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-text-transform: capitalize
+  text-transform: capitalize;
 }
 .section-photo-list {
 }
@@ -184,12 +184,10 @@ text-transform: capitalize
   letter-spacing: 0.02em;
 }
 
-.section-images 
-.main-subtitle-images {
+.section-images .main-subtitle-images {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
-  line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
