@@ -12,8 +12,7 @@ ul {list-style-type: none;}
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    /* 116.667% */
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;}
 
 .header-dark {
@@ -30,8 +29,7 @@ ul {list-style-type: none;}
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    /* 150% */
-    letter-spacing: 0.32px;}
+    letter-spacing: 0.02em;}
         .link:hover,
         .link:focus {
             color: #404bbf;}
@@ -51,7 +49,7 @@ ul {list-style-type: none;}
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     font-style: normal
 }
 .link-contact {color:  #434455;
@@ -60,7 +58,7 @@ ul {list-style-type: none;}
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;}
+    letter-spacing: 0.02em;}
 .link-contact:hover,
 .link-contact:focus {
     color: #404BBF;
@@ -74,35 +72,21 @@ ul {list-style-type: none;}
     text-align: center;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 1.12px;}
+    letter-spacing: 0.02em;}
 
 .main-button {color:  #FFF;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: inline-flex;
-  
-
-   
-        background:  #4D5AE5; color: #FFF;
-
+background:  #4D5AE5; color: #FFF;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.64px;
+letter-spacing: 0.04em;
        }
 .main-button:hover,
 .main-button:focus {color:  #FFF;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.64px;cursor: pointer;
+    cursor: pointer;
     background:  #404BBF;
      }
-    
-
-       
+          
 .main-plan {background: #FFF;}
 
 .main-subtitle {color:  #2E2F42;
@@ -110,7 +94,7 @@ letter-spacing: 0.64px;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.1;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;}
 
 .main-list {}
@@ -123,14 +107,14 @@ letter-spacing: 0.64px;
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;}
-
+    letter-spacing: 0.02em;
+text-transform: capitalize;}
 .main-p {color:  #434455;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;}
+    letter-spacing: 0.02em;}
 
 .section-photo {background:  #F4F4FD;}
 .main-subtitle-photo { color:  #2E2F42;
@@ -138,7 +122,7 @@ letter-spacing: 0.64px;
     font-size: 36px;
     font-weight: 700;
     line-height: 1,11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     }
 .section-photo-list {}
 
@@ -151,14 +135,14 @@ letter-spacing: 0.64px;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;}
+    letter-spacing: 0.02em;}
 
 .photo-p {color: #434455;
     text-align: center;
     font-size: 16px;
     font-style: normal;
     line-height: 1.5;
-    letter-spacing: 0.32px;}
+    letter-spacing: 0.02em}
 
 .section-images {}
 .main-subtitle-images {
@@ -166,7 +150,7 @@ letter-spacing: 0.64px;
 text-align: center;
 font-size: 36px;
 line-height: 1.11;
-letter-spacing: 0.72px;
+letter-spacing: 0.02em;
 text-transform: capitalize;}
 
 .ul-list {background-color: #FFFFFF}
@@ -178,14 +162,14 @@ text-transform: capitalize;}
 .images-h {color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.4px;}
-
+    line-height: 1.11;
+    letter-spacing: 0.002;
+text-transform: capitalize;}
 .images-p {
-    color: var(--SLATE, #434455);
+    color:  #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;}
+    letter-spacing: 0.02em;}
 .footer {
     background:  #2E2F42;}
 
@@ -194,7 +178,7 @@ text-transform: capitalize;}
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;}
 
 .logo-white {
@@ -205,4 +189,4 @@ text-transform: capitalize;}
     color:  #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;}
+    letter-spacing: 0.02em;}
