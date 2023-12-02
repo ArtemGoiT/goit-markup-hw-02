@@ -1,4 +1,4 @@
-body {color: #434455; 
+body {background-color #FFFFFF; color: #434455; 
 font-family: 'Roboto', sans-serif;
     }
 .header {
@@ -233,7 +233,7 @@ letter-spacing: 0.64px;
     /* 150% */
     letter-spacing: 0.32px;}
 
-.section-images {background-color: #FFFFFF;}
+.section-images {background-color #FFFFFF;}
 .main-subtitle-images { color:  #2E2F42;
 text-align: center;
 
@@ -246,7 +246,7 @@ line-height: 40px; /* 111.111% */
 letter-spacing: 0.72px;
 text-transform: capitalize;line-height: 1.11} 
 
-.images-list {}
+.images-list {background-color: #FFFFFF}
 
 .images-item {}
 
