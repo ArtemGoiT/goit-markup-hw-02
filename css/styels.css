@@ -185,6 +185,7 @@ text-transform: capitalize
 }
 
 .section-images {
+    line-height: 1.2;
 }
 .main-subtitle-images {
   color: #2e2f42;
