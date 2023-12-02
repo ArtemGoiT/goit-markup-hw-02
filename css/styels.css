@@ -30,7 +30,7 @@ ul {list-style-type: none;}
 
 .item-list {}
 
-.link:hover,
+.link:hover  {color: #404bbf;}
 .link:focus {color:  #404BBF;
     /* Body Medium */
     font-family: 'Roboto', sans-serif;
@@ -250,11 +250,11 @@ font-family: Roboto;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
-line-height: 40px; /* 111.111% */
+line-height: 1.11; /* 111.111% */
 letter-spacing: 0.72px;
 text-transform: capitalize;line-height: 1.11} 
 
-.images-list {background-color: #FFFFFF}
+.ul-list {background-color: #FFFFFF}
 
 .images-item {background-color: #FFFFFF}
 
