@@ -1,7 +1,7 @@
 body {color: #434455; 
 font-family: 'Roboto', sans-serif;
     }
-.header {border-bottom:  #E7E9FC;
+.header {
     background-color: #FFFFFF;}
 ul {list-style-type: none;}
 .heder-nav {}
@@ -96,12 +96,11 @@ ul {list-style-type: none;}
     letter-spacing: 0.32px;
 
 }
-.min-section {width: 1440px;
-    height: 600px;
+.min-section {
     flex-shrink: 0;border: 1px solid #000;
     background:  #2E2F42;}
 
-.main-title {width: 496px; color: #FFF;
+.main-title { color: #FFF;
     text-align: center;
 
     /* Header 1 */
@@ -122,10 +121,10 @@ ul {list-style-type: none;}
     font-weight: 500;
     line-height: 1.5;
     /* 150% */
-    letter-spacing: 0.64px;display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;border-radius: 4px;
+    letter-spacing: inline-flex;
+  
+
+   
         background:  #4D5AE5; color: #FFF;
 
 /* Button Text */
@@ -135,7 +134,7 @@ font-style: normal;
 font-weight: 500;
 line-height: 1.5; /* 150% */
 letter-spacing: 0.64px;
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
+       }
 .main-button:hover,:focus {color:  #FFF;
     /* Button Text */
     font-family: 'Roboto', sans-serif;
@@ -144,12 +143,12 @@ letter-spacing: 0.64px;
     font-weight: 500;
     line-height: 1.5;
     /* 150% */
-    letter-spacing: 0.64px;cursor: pointer;border-radius: 4px;
+    letter-spacing: 0.64px;cursor: pointer;
     background:  #404BBF;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);display: inline-flex;
-        padding: 16px 32px;
-        align-items: flex-start;
-        gap: 10px;}
+     }
+    
+
+       
 .main-plan {background: #FFF;}
 
 .main-subtitle {color:  #2E2F42;
@@ -274,8 +273,7 @@ text-transform: capitalize;line-height: 1.11}
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.32px;}
-.footer {width: 1440px;
-    height: 312px;
+.footer {
     flex-shrink: 0;background:  #2E2F42;}
 
 .footer-logo {color:  #4D5AE5;
@@ -306,4 +304,4 @@ text-transform: capitalize;line-height: 1.11}
     font-weight: 400;
     line-height: 1.5;
     /* 150% */
-    letter-spacing: 0.32px;width: 264px;}
+    letter-spacing: 0.32px;}
