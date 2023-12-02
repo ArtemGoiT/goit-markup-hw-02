@@ -1,12 +1,12 @@
 body {color: #434455; 
 font-family: 'Roboto', sans-serif;
     }
-.header {
+.header {border-bottom:  #E7E9FC;
     background: #FFF;}
 ul {list-style-type: none;}
 .heder-nav {}
 
-.header-logo {color:  #4D5AE5;
+.logo {color:  #4D5AE5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -226,7 +226,7 @@ letter-spacing: 0.64px;
     text-align: center;
 
     /* Body */
-    font-family: 'Roboto';
+    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -234,19 +234,18 @@ letter-spacing: 0.64px;
     /* 150% */
     letter-spacing: 0.32px;}
 
-.section-images {}
+.section-images {background: #FFF;}
 .main-subtitle-images { color: var(--NAVY-BLUE, #2E2F42);
-    text-align: center;
+text-align: center;
 
-    /* Header 2 */
-    font-family: 'Roboto';
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 40px;
-    /* 111.111% */
-    letter-spacing: 0.72px;
-    text-transform: capitalize;line-height: 1.11} 
+/* Header 2 */
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 111.111% */
+letter-spacing: 0.72px;
+text-transform: capitalize;line-height: 1.11} 
 
 .images-list {}
 
