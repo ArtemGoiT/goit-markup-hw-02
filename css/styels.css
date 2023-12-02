@@ -115,7 +115,7 @@ ul {list-style-type: none;}
 .main-button {color:  #FFF;
 
     /* Button Text */
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -233,7 +233,7 @@ letter-spacing: 0.64px;
     /* 150% */
     letter-spacing: 0.32px;}
 
-.section-images {background-color #FFFFFF;}
+.section-images {background-color: #FFFFFF}
 .main-subtitle-images { color:  #2E2F42;
 text-align: center;
 
